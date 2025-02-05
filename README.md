@@ -26,10 +26,10 @@ _Congratulations, you've completed this course and joined the world of developer
 
 Here's a recap of your accomplishments:
 
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
+-  You learned about GitHub, repositories, branches, commits, and pull requests.
+-  You created a branch, a commit, and a pull request.
+-  You merged a pull request.
+-  You made your first contribution! :tada:
 
 ### What's next?
 
@@ -43,10 +43,10 @@ If you'd like to make a profile README, use the quickstart instructions below or
 
 Check out these resources to learn more or get involved:
 
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+-  Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
+-  [Take another GitHub Skills course](https://github.com/skills).
+-  [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+-  To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
@@ -62,3 +62,5 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+## Upcoming Features
